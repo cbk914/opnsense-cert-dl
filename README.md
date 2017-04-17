@@ -9,6 +9,11 @@ This script authenticates against the [OPNsense](https://opnsense.org/) web admi
 4. Profit!
 
 ## How to use
+
+### Requirements
+- python3
+- pyquery & requests lib (see requirements.txt)
+
 ```
 usage: get-cert.py [-h] --keyfile KEYFILE --certfile CERTFILE --keyid KEYID
                    --url URL --username USERNAME --password PASSWORD
