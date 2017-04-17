@@ -32,5 +32,5 @@ optional arguments:
   --password PASSWORD  password for OPNsense web interface
 ```
 
-To get the keyid, see this picture:
+To get the keyid, hover over the download button in the certificate list:
 ![](opnsense-cert-admin.png)
